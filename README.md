@@ -46,3 +46,12 @@ print(checksum_address)
 # 0x1269645a46A3e86c1a3C3De8447092D90f6F04ED
 
 ```
+
+
+pip install blocksmith
+sudo apt install python3-pip
+pip3 install ecdsa
+sudo pip3 install --upgrade pycryptodome
+
+python3 genPrivKey.py
+python3 genPubKey.py
