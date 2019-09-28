@@ -1,0 +1,11 @@
+pip install python_secrets
+
+pip install blocksmith
+sudo apt install python3-pip
+pip3 install ecdsa
+sudo pip3 install --upgrade pycryptodome
+
+python3 genPrivKey.py
+python3 genPubKey.py
+
+fac418415b168cd95240e015deee6a8a0e8cb99cd454bf9d2704a4f23e428533
