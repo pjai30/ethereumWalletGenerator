@@ -49,9 +49,13 @@ print(checksum_address)
 
 
 pip install blocksmith
+
 sudo apt install python3-pip
+
 pip3 install ecdsa
+
 sudo pip3 install --upgrade pycryptodome
 
 python3 genPrivKey.py
+
 python3 genPubKey.py
